@@ -39,7 +39,7 @@ Specialized in character locomotion, Control Rig, procedural animation and tight
 | | |
 |:---|:---:|
 | <p align="center">Procedural Scorpion</p><br>• Adaptive Cycle<br>• Acceleration Based Leans<br>• Basic WallClimbing System | <img width="568" height="320" alt="ScorpoinShort" src="https://github.com/user-attachments/assets/5b8bec97-3c15-4ae4-b4b8-8c2498e46c4a" /> |
-| <p align="center">Procedural Turn In Place</p><br>• FBIK Driven Turn In Place<br>• Aim Constrain Driven AimOffset | <img width="568" height="320" alt="TurnInPlaceShort_360_10_2" src="https://github.com/user-attachments/assets/28e35994-e30e-4ec8-8a0f-078f6ffa5c64" /> |
+| <p align="center">Procedural Turn In Place</p><br>• FBIK Driven Turn In Place<br>• Aim Constrain Driven AimOffset | <img width="480" height="270" alt="TurnInPlaceShort_2" src="https://github.com/user-attachments/assets/5f225153-e1b2-4dd4-b8de-11818e853455" /> |
 
 ---
 
@@ -52,7 +52,3 @@ Specialized in character locomotion, Control Rig, procedural animation and tight
 | **Cinematic Promotional Trailers** | Freelance (Aug 2024 — Feb 2025)<br>Created high-quality cinematic trailers including truck rigging, spline animation, and Sequencer work for a long-haul trucking game. |
 
 ---
-
-<img width="300" height="169" alt="TurnInPlaceShort_2 (3)" src="https://github.com/user-attachments/assets/12a36b5b-aa9d-4f69-8222-01fc6f766b5f" />
-<img width="480" height="270" alt="TurnInPlaceShort_2" src="https://github.com/user-attachments/assets/5f225153-e1b2-4dd4-b8de-11818e853455" />
-
