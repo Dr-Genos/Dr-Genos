@@ -1,3 +1,5 @@
+<img width="480" height="270" alt="TurnInPlaceShort_2" src="https://github.com/user-attachments/assets/aa8758c4-00fe-48d7-9c2a-c80b1de3232c" />
+<img width="480" height="270" alt="TurnInPlaceShort_2" src="https://github.com/user-attachments/assets/0743a707-43ec-45ab-807e-dbd3388a438a" />
 # GENNADII NAPOLSKIKH
 **`Technical Animator | Unreal Engine 5 Specialist`**
 
@@ -52,4 +54,5 @@ Specialized in character locomotion, Control Rig, procedural animation and tight
 ---
 
 <img width="300" height="169" alt="TurnInPlaceShort_2 (3)" src="https://github.com/user-attachments/assets/12a36b5b-aa9d-4f69-8222-01fc6f766b5f" />
+<img width="480" height="270" alt="TurnInPlaceShort_2" src="https://github.com/user-attachments/assets/5f225153-e1b2-4dd4-b8de-11818e853455" />
 
