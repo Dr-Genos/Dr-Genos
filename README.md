@@ -51,8 +51,8 @@ Specialized in character locomotion, Control Rig, procedural animation and tight
 
 | | |
 |:---|:---:|
-| <p align="center">Procedural Scorpion</p><br>• Adaptive Cycle<br>• Acceleration Based Leans<br>• Basic WallClimbing System | <div style="position:relative; display:inline-block;"><div style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); z-index:1;"><div class="loader"></div></div><img width="568" height="320" alt="ScorpoinShort" src="https://github.com/user-attachments/assets/5b8bec97-3c15-4ae4-b4b8-8c2498e46c4a" style="display:block;" loading="lazy" /></div> |
-| <p align="center">Procedural Turn In Place</p><br>• FBIK Driven Turn In Place<br>• Aim Constrain Driven AimOffset | <div style="position:relative; display:inline-block;"><div style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); z-index:1;"><div class="loader"></div></div><img width="568" height="320" alt="TurnInPlaceShort_360_10_2" src="https://github.com/user-attachments/assets/28e35994-e30e-4ec8-8a0f-078f6ffa5c64" style="display:block;" loading="lazy" /></div> |
+| <p align="center">Procedural Scorpion</p><br>• Adaptive Cycle<br>• Acceleration Based Leans<br>• Basic WallClimbing System | <img width="568" height="320" alt="ScorpoinShort" src="https://github.com/user-attachments/assets/5b8bec97-3c15-4ae4-b4b8-8c2498e46c4a" /> |
+| <p align="center">Procedural Turn In Place</p><br>• FBIK Driven Turn In Place<br>• Aim Constrain Driven AimOffset | <img width="568" height="320" alt="TurnInPlaceShort_360_10_2" src="https://github.com/user-attachments/assets/28e35994-e30e-4ec8-8a0f-078f6ffa5c64" /> |
 
 ---
 
