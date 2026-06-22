@@ -31,21 +31,6 @@ Specialized in character locomotion, Control Rig, procedural animation and tight
 | English | [CV_Gennadii_Napolskikh_eng.pdf](https://github.com/user-attachments/files/29209916/CV_Gennadii_Napolskikh_eng.pdf) |
 | Russsian | [CV_Gennadii_Napolskikh_rus.pdf](https://github.com/user-attachments/files/29209920/CV_Gennadii_Napolskikh_rus.pdf) |
 
-<style>
-.loader {
-  border: 4px solid #f3f3f3;
-  border-top: 4px solid #00bfff;
-  border-radius: 50%;
-  width: 40px;
-  height: 40px;
-  animation: spin 1s linear infinite;
-}
-
-@keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
-</style>
 
 ### Procedural Animation
 
@@ -65,3 +50,6 @@ Specialized in character locomotion, Control Rig, procedural animation and tight
 | **Cinematic Promotional Trailers** | Freelance (Aug 2024 — Feb 2025)<br>Created high-quality cinematic trailers including truck rigging, spline animation, and Sequencer work for a long-haul trucking game. |
 
 ---
+
+<img width="300" height="169" alt="TurnInPlaceShort_2 (3)" src="https://github.com/user-attachments/assets/12a36b5b-aa9d-4f69-8222-01fc6f766b5f" />
+
