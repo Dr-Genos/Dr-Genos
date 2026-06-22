@@ -1,5 +1,3 @@
-<img width="480" height="270" alt="TurnInPlaceShort_2" src="https://github.com/user-attachments/assets/aa8758c4-00fe-48d7-9c2a-c80b1de3232c" />
-<img width="480" height="270" alt="TurnInPlaceShort_2" src="https://github.com/user-attachments/assets/0743a707-43ec-45ab-807e-dbd3388a438a" />
 # GENNADII NAPOLSKIKH
 **`Technical Animator | Unreal Engine 5 Specialist`**
 
