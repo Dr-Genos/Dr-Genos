@@ -46,8 +46,8 @@ Specialized in character locomotion, Control Rig, procedural animation and tight
 
 | System | Example |
 |:---|:---|
-| **[Chambered](https://store.steampowered.com/app/4180520/Chambered/)** | Technical Animator at Schizo Cat (Feb 2025 — Present)<br>• Developed advanced character locomotion system (Blend Spaces, Root Motion, Sync Markers, Turn-In-Place, Aim Offset)<br>• Implemented Foot Placement (IK) with Control Rig<br>• Created Stair Climbing system and procedural enemy locomotion<br>• Built procedural maze generation, seamless portal system and "Living Maze" mechanics |
-| **[D&D Dice Arena](https://github.com/GennadiiNapolskikh)** | Pet project (Unreal Engine 5, Mobile)<br>Full-cycle mobile game featuring interactive dice arena, physics simulation, and two gameplay modes (Monster & Mage). |
+| **[Chambered](https://store.steampowered.com/app/4180520/Chambered/)** | • Built and maintained the full animation pipeline, including rigging, retargeting, animation creation, and Animation Blueprint architecture <br>• Integrated animation logic with an the Gameplay Ability System (GAS), enabling ability-driven locomotion and state transitions <br>• Contributed as a UE generalist on procedural maze generation, seamless portals, optimized mirror systems, and “Living Maze” mechanicss |
+| **[D&D Dice Arena](https://www.youtube.com/watch?v=4oM7X27U-4s)** | Pet project (Unreal Engine 5, Mobile)<br>Full-cycle mobile game featuring interactive dice arena, physics simulation, and two gameplay modes (Monster & Mage). |
 | **Cinematic Promotional Trailers** | Freelance (Aug 2024 — Feb 2025)<br>Created high-quality cinematic trailers including truck rigging, spline animation, and Sequencer work for a long-haul trucking game. |
 
 ---
