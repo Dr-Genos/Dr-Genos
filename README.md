@@ -33,7 +33,8 @@ Specialized in character locomotion, Control Rig, procedural animation and tight
 
 <p align="left">
   <a href="https://studio.youtube.com/video/galahqPtfRE/edit">
-    <img alt="Portfolio Video" title="Portfolio Video" src="https://custom-icon-badges.demolab.com/badge/YouTube-Showreel-red?logo=youtube&logoColor=white&style=for-the-badge" />
+    <img alt="Portfolio Video" title="Portfolio Video" 
+         src="https://custom-icon-badges.demolab.com/badge/YouTube-Portfolio_Video-red?logo=youtube&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
