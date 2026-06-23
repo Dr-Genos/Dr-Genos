@@ -31,6 +31,13 @@ Specialized in character locomotion, Control Rig, procedural animation and tight
 | English | [CV_Gennadii_Napolskikh_eng.pdf](https://github.com/user-attachments/files/29209916/CV_Gennadii_Napolskikh_eng.pdf) |
 | Russsian | [CV_Gennadii_Napolskikh_rus.pdf](https://github.com/user-attachments/files/29209920/CV_Gennadii_Napolskikh_rus.pdf) |
 
+<p align="left">
+  <a href="https://studio.youtube.com/video/galahqPtfRE/edit">
+    <img alt="Portfolio Video" title="Portfolio Video" src="https://custom-icon-badges.demolab.com/badge/YouTube-Showreel-red?logo=youtube&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+#
 
 ### Procedural Animation
 
