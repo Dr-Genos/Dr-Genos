@@ -62,7 +62,7 @@ Specialized in character locomotion, Control Rig, procedural animation and tight
 
 | System | Example |
 |:---|:---|
-| **[Chambered](https://store.steampowered.com/app/4180520/Chambered/)** | • Built and maintained the full animation pipeline, including rigging, retargeting, animation creation, and Animation Blueprint architecture <br>• Integrated animation logic with an the Gameplay Ability System (GAS), enabling ability-driven locomotion and state transitions <br>• Contributed as a UE generalist on procedural maze generation, seamless portals, optimized mirror systems, and “Living Maze” mechanicss |
+| **[Chambered](https://store.steampowered.com/app/4180520/Chambered/)** | • Built and maintained the full animation pipeline, including rigging, retargeting, animation creation, and Animation Blueprint architecture <br>• Integrated animation logic with an the Gameplay Ability System (GAS), enabling ability-driven locomotion and state transitions <br>• Contributed as a UE generalist on procedural maze generation, seamless portals, optimized mirror systems, and “Living Maze” mechanics |
 | **[D&D Dice Arena](https://www.youtube.com/watch?v=4oM7X27U-4s)** | Pet project (Unreal Engine 5, Mobile)<br>Full-cycle mobile game featuring interactive dice arena, physics simulation, and two gameplay modes (Monster & Mage). |
 | **Cinematic Promotional Trailers** | Freelance (Aug 2024 — Feb 2025)<br>Created high-quality cinematic trailers including truck rigging, spline animation, and Sequencer work for a long-haul trucking game. |
 
