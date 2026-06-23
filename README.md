@@ -48,7 +48,7 @@ Specialized in character locomotion, Control Rig, procedural animation and tight
 
 #
 
-### Procedural Animation
+### Showcases
 
 | | |
 |:---|:---:|
