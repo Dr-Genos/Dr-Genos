@@ -37,7 +37,7 @@ Specialized in character locomotion, Control Rig, procedural animation and tight
 | | |
 |:---|:---:|
 | <p align="center">Procedural Scorpion</p><br>• Adaptive Cycle<br>• Acceleration Based Leans<br>• Basic WallClimbing System | <img width="480" height="270" alt="ScorpionShort" src="https://github.com/user-attachments/assets/9ebb15bd-9f8c-43e0-996d-5c82bb615520" /> |
-| <p align="center">Procedural Turn In Place</p><br>• FBIK Driven Turn In Place<br>• Aim Constrain Driven AimOffset | <img width="480" height="270" alt="TurnInPlaceShort_2" src="https://github.com/user-attachments/assets/5f225153-e1b2-4dd4-b8de-11818e853455" /> |
+| <p align="center">Procedural Turn In Place <br>+<br>Procedural AimOffset</p><br>• FBIK Driven Turn In Place<br>• Aim Constrain Driven AimOffset | <img width="480" height="270" alt="TurnInPlaceShort_2" src="https://github.com/user-attachments/assets/5f225153-e1b2-4dd4-b8de-11818e853455" /> |
 | <p align="center">Small Objects Interaction</p><br>• CCDIK Driven Movement<br>• Allignment using virtual bones | <img width="480" height="270" alt="Backgammon" src="https://github.com/user-attachments/assets/c21126c7-0bb4-4427-8352-30c08c24e100" /> |
 
 ---
