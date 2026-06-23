@@ -32,7 +32,7 @@ Specialized in character locomotion, Control Rig, procedural animation and tight
 | Russsian | [CV_Gennadii_Napolskikh_rus.pdf](https://github.com/user-attachments/files/29209920/CV_Gennadii_Napolskikh_rus.pdf) |
 
 <p align="left">
-  <a href="https://studio.youtube.com/video/galahqPtfRE/edit">
+  <a href="https://www.youtube.com/watch?v=galahqPtfRE&feature=youtu.be">
     <img alt="Portfolio Video" title="Portfolio Video" 
          src="https://custom-icon-badges.demolab.com/badge/YouTube-Portfolio_Video-red?logo=youtube&logoColor=white&style=for-the-badge" />
   </a>
