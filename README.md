@@ -28,12 +28,12 @@ Specialized in character locomotion, Control Rig, procedural animation and tight
 ### Download Portfolio
 
 <p align="left">
-  <a href="https://github.com/user-attachments/files/29209916/CV_Gennadii_Napolskikh_eng.pdf">
+  <a href="https://github.com/user-attachments/files/29292439/CV_Gennadii_Napolskikh_eng.5.pdf">
     <img alt="English CV" title="English CV" 
          src="https://custom-icon-badges.demolab.com/badge/English-CV-blue?logo=pdf&logoColor=white&style=for-the-badge" />
   </a>
   
-  <a href="https://github.com/user-attachments/files/29209920/CV_Gennadii_Napolskikh_rus.pdf">
+  <a href="https://github.com/user-attachments/files/29292446/CV_Gennadii_Napolskikh_rus.4.pdf">
     <img alt="Russian CV" title="Russian CV" 
          src="https://custom-icon-badges.demolab.com/badge/Russian-CV-red?logo=pdf&logoColor=white&style=for-the-badge" />
   </a>
